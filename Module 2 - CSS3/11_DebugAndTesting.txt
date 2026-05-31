@@ -1,0 +1,21 @@
+1. Open Chrome Browser
+
+2. Press F12
+
+3. Open Device Toolbar
+   (Ctrl + Shift + M)
+
+4. Select Mobile Device
+
+5. Inspect Elements
+
+6. Modify CSS Values Live
+
+7. Open Network Tab
+
+8. Reload Page
+
+9. Verify styles.css is loaded
+
+10. Use Sources Tab
+    to add breakpoints
