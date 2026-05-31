@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Debugging Example</title>
+
+</head>
+
+<body>
+
+    <h2>Chrome DevTools Practice</h2>
+
+    <p id="demo">
+        Open Console and Inspect Element
+    </p>
+
+    <script>
+
+        let userName = "Lulu";
+
+        console.log("User Name:", userName);
+
+        let eventCount = 5;
+
+        console.log("Event Count:", eventCount);
+
+        function calculateTotal(a, b) {
+
+            let total = a + b;
+
+            console.log("Total =", total);
+
+            return total;
+
+        }
+
+        calculateTotal(10, 20);
+
+        debugger;
+
+        console.log("Debugger Executed");
+
+    </script>
+
+</body>
+
+</html>
